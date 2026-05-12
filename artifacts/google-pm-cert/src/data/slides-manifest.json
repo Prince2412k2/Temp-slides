@@ -1,0 +1,482 @@
+[
+  {
+    "id": "a1b2c3d4-0001-4abc-8abc-000000000001",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide01.tsx",
+    "title": "Google Project Management Certificate",
+    "description": "Title slide introducing the full study guide for the Google PM Certificate.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0002-4abc-8abc-000000000002",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide02.tsx",
+    "title": "What Is Project Management?",
+    "description": "Definition of project management and its key components.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0003-4abc-8abc-000000000003",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide03.tsx",
+    "title": "What Does a Project Manager Do?",
+    "description": "The day-to-day responsibilities and focus areas of a project manager.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0004-4abc-8abc-000000000004",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide04.tsx",
+    "title": "The Value of a Project Manager",
+    "description": "How project managers add value through prioritization, delegation, and communication.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0005-4abc-8abc-000000000005",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide05.tsx",
+    "title": "Professional Project Management Skills",
+    "description": "Core competencies and soft skills that make project managers effective.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0006-4abc-8abc-000000000006",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide06.tsx",
+    "title": "Project Structures and Life Cycles",
+    "description": "The four phases of the project life cycle: Initiation, Planning, Execution, Closing.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0007-4abc-8abc-000000000007",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide07.tsx",
+    "title": "Organizational Structure and Company Culture",
+    "description": "Classic, matrix, and project-based org structures and why culture matters.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0008-4abc-8abc-000000000008",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide08.tsx",
+    "title": "How Company Culture Affects Project Management",
+    "description": "How organizational culture influences decisions, communication, and PM effectiveness.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0009-4abc-8abc-000000000009",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide09.tsx",
+    "title": "Key Parts of Project Initiation",
+    "description": "Section divider — Initiation. Goals, scope, deliverables, stakeholders, and resources.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0010-4abc-8abc-000000000010",
+    "position": 10,
+    "filepath": "src/pages/slides/Slide10.tsx",
+    "title": "Setting SMART Goals",
+    "description": "The SMART framework for setting Specific, Measurable, Attainable, Relevant, Time-bound goals.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0011-4abc-8abc-000000000011",
+    "position": 11,
+    "filepath": "src/pages/slides/Slide11.tsx",
+    "title": "Scope and Scope Creep",
+    "description": "Defining project scope and preventing scope creep with clear documentation and change control.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0012-4abc-8abc-000000000012",
+    "position": 12,
+    "filepath": "src/pages/slides/Slide12.tsx",
+    "title": "Communicating and Working with Stakeholders",
+    "description": "Identifying stakeholders, the RACI chart, and stakeholder management steps.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0013-4abc-8abc-000000000013",
+    "position": 13,
+    "filepath": "src/pages/slides/Slide13.tsx",
+    "title": "The Benefits of Project Planning",
+    "description": "Why planning matters and what goes into a project plan.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0014-4abc-8abc-000000000014",
+    "position": 14,
+    "filepath": "src/pages/slides/Slide14.tsx",
+    "title": "Project Planning for Beginners",
+    "description": "The five core elements: tasks, milestones, people, documentation, and time.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0015-4abc-8abc-000000000015",
+    "position": 15,
+    "filepath": "src/pages/slides/Slide15.tsx",
+    "title": "Building a Project Plan",
+    "description": "Step-by-step approach to building a project plan using a spreadsheet.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0016-4abc-8abc-000000000016",
+    "position": 16,
+    "filepath": "src/pages/slides/Slide16.tsx",
+    "title": "Negotiating with Stakeholders",
+    "description": "Key negotiation principles and using empathy to find win-win solutions.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0017-4abc-8abc-000000000017",
+    "position": 17,
+    "filepath": "src/pages/slides/Slide17.tsx",
+    "title": "How to Create a Project Budget",
+    "description": "Budget components and step-by-step budgeting process.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0018-4abc-8abc-000000000018",
+    "position": 18,
+    "filepath": "src/pages/slides/Slide18.tsx",
+    "title": "Risk Management Basics",
+    "description": "Risk management process and types of project risks.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0019-4abc-8abc-000000000019",
+    "position": 19,
+    "filepath": "src/pages/slides/Slide19.tsx",
+    "title": "Resources and Tools to Manage Your Project",
+    "description": "Project resources: budget, people, materials, and common PM tools.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0020-4abc-8abc-000000000020",
+    "position": 20,
+    "filepath": "src/pages/slides/Slide20.tsx",
+    "title": "The Project Communication Plan",
+    "description": "What a communication plan outlines and why communication plans prevent failure.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0021-4abc-8abc-000000000021",
+    "position": 21,
+    "filepath": "src/pages/slides/Slide21.tsx",
+    "title": "Communicate Effectively as a Project Manager",
+    "description": "Section divider — Execution. 90% of PM time is communication.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0022-4abc-8abc-000000000022",
+    "position": 22,
+    "filepath": "src/pages/slides/Slide22.tsx",
+    "title": "How to Run a Successful Meeting",
+    "description": "Characteristics of effective meetings: structured, intentional, collaborative, inclusive.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0023-4abc-8abc-000000000023",
+    "position": 23,
+    "filepath": "src/pages/slides/Slide23.tsx",
+    "title": "How to Organize Effective Meetings",
+    "description": "Before, during, and after a meeting best practices.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0024-4abc-8abc-000000000024",
+    "position": 24,
+    "filepath": "src/pages/slides/Slide24.tsx",
+    "title": "Project Tracking Methods",
+    "description": "Gantt charts, Kanban boards, burndown charts, and status reports.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0025-4abc-8abc-000000000025",
+    "position": 25,
+    "filepath": "src/pages/slides/Slide25.tsx",
+    "title": "Effective Project Management During Execution",
+    "description": "PM focus areas during execution and the project plan as a living document.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0026-4abc-8abc-000000000026",
+    "position": 26,
+    "filepath": "src/pages/slides/Slide26.tsx",
+    "title": "Leadership vs Management in a Successful Team",
+    "description": "The distinction between management and leadership, and what makes a team.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0027-4abc-8abc-000000000027",
+    "position": 27,
+    "filepath": "src/pages/slides/Slide27.tsx",
+    "title": "How Project Managers Improve Team Effectiveness",
+    "description": "What strong teams share and how PMs build team effectiveness.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0028-4abc-8abc-000000000028",
+    "position": 28,
+    "filepath": "src/pages/slides/Slide28.tsx",
+    "title": "How Project Managers Can Influence Those Around Them",
+    "description": "Four steps for influencing without authority: credibility, framing, evidence, emotion.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0029-4abc-8abc-000000000029",
+    "position": 29,
+    "filepath": "src/pages/slides/Slide29.tsx",
+    "title": "How Project Managers Can Build Customer Satisfaction",
+    "description": "Relationship strategies and soft skills for building customer trust.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0030-4abc-8abc-000000000030",
+    "position": 30,
+    "filepath": "src/pages/slides/Slide30.tsx",
+    "title": "Quality Management and Continuous Improvement",
+    "description": "Defining quality, the triple constraint, and continuous improvement.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0031-4abc-8abc-000000000031",
+    "position": 31,
+    "filepath": "src/pages/slides/Slide31.tsx",
+    "title": "Understanding Change Management",
+    "description": "Change management process and core concepts including ownership and urgency.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0032-4abc-8abc-000000000032",
+    "position": 32,
+    "filepath": "src/pages/slides/Slide32.tsx",
+    "title": "Closing a Project",
+    "description": "Five steps to properly close a project: completion, acceptance, retrospective, archive, celebrate.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0033-4abc-8abc-000000000033",
+    "position": 33,
+    "filepath": "src/pages/slides/Slide33.tsx",
+    "title": "Introduction to Agile",
+    "description": "Section divider — Agile & Scrum. Agile's four characteristics: iterative, flexible, collaborative, customer-focused.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0034-4abc-8abc-000000000034",
+    "position": 34,
+    "filepath": "src/pages/slides/Slide34.tsx",
+    "title": "The Agile Manifesto",
+    "description": "Four core values of the Agile Manifesto.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0035-4abc-8abc-000000000035",
+    "position": 35,
+    "filepath": "src/pages/slides/Slide35.tsx",
+    "title": "Agile vs. Waterfall",
+    "description": "Side-by-side comparison of Agile and Waterfall methodologies.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0036-4abc-8abc-000000000036",
+    "position": 36,
+    "filepath": "src/pages/slides/Slide36.tsx",
+    "title": "Understanding Scrum",
+    "description": "Scrum definition, three pillars (transparency, inspection, adaptation), and five core values.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0037-4abc-8abc-000000000037",
+    "position": 37,
+    "filepath": "src/pages/slides/Slide37.tsx",
+    "title": "The Scrum Team",
+    "description": "Three Scrum roles: Product Owner, Scrum Master, and Development Team.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0038-4abc-8abc-000000000038",
+    "position": 38,
+    "filepath": "src/pages/slides/Slide38.tsx",
+    "title": "The Product Backlog",
+    "description": "What the product backlog is, user stories, and backlog refinement.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0039-4abc-8abc-000000000039",
+    "position": 39,
+    "filepath": "src/pages/slides/Slide39.tsx",
+    "title": "The Sprint",
+    "description": "Four sprint ceremonies: Sprint Planning, Daily Standup, Sprint Review, Sprint Retrospective.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0040-4abc-8abc-000000000040",
+    "position": 40,
+    "filepath": "src/pages/slides/Slide40.tsx",
+    "title": "Scrum Artifacts",
+    "description": "Three Scrum artifacts: Product Backlog, Sprint Backlog, and Increment.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0041-4abc-8abc-000000000041",
+    "position": 41,
+    "filepath": "src/pages/slides/Slide41.tsx",
+    "title": "Velocity and Estimation",
+    "description": "Velocity, story points, Fibonacci scale, and planning poker.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0042-4abc-8abc-000000000042",
+    "position": 42,
+    "filepath": "src/pages/slides/Slide42.tsx",
+    "title": "The Definition of Done",
+    "description": "Shared criteria for when a work item is truly complete.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0043-4abc-8abc-000000000043",
+    "position": 43,
+    "filepath": "src/pages/slides/Slide43.tsx",
+    "title": "The Scrum Master Role in Detail",
+    "description": "How the Scrum Master serves the team, Product Owner, and organization.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0044-4abc-8abc-000000000044",
+    "position": 44,
+    "filepath": "src/pages/slides/Slide44.tsx",
+    "title": "Applying Agile in Real Environments",
+    "description": "Challenges of real-world Agile adoption and strategies for success.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0045-4abc-8abc-000000000045",
+    "position": 45,
+    "filepath": "src/pages/slides/Slide45.tsx",
+    "title": "Agile Beyond Software: The Broader Application",
+    "description": "Industries using Agile and universal Agile principles that apply anywhere.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0046-4abc-8abc-000000000046",
+    "position": 46,
+    "filepath": "src/pages/slides/Slide46.tsx",
+    "title": "How to Maximize the Value of a Scrum Team",
+    "description": "Team health practices and common Scrum pitfalls to avoid.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0047-4abc-8abc-000000000047",
+    "position": 47,
+    "filepath": "src/pages/slides/Slide47.tsx",
+    "title": "Scaled Agile and Hybrid Approaches",
+    "description": "SAFe for multiple Scrum teams and hybrid Agile/Waterfall approaches.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0048-4abc-8abc-000000000048",
+    "position": 48,
+    "filepath": "src/pages/slides/Slide48.tsx",
+    "title": "Agile Mindset vs. Waterfall Thinking",
+    "description": "Contrasting Waterfall assumptions with Agile mindset beliefs.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0049-4abc-8abc-000000000049",
+    "position": 49,
+    "filepath": "src/pages/slides/Slide49.tsx",
+    "title": "Kanban and Other Agile Frameworks",
+    "description": "Overview of Kanban, XP (Extreme Programming), and Lean frameworks.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0050-4abc-8abc-000000000050",
+    "position": 50,
+    "filepath": "src/pages/slides/Slide50.tsx",
+    "title": "Delivering Value with Agile",
+    "description": "Continuous delivery model and key Agile value metrics.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0051-4abc-8abc-000000000051",
+    "position": 51,
+    "filepath": "src/pages/slides/Slide51.tsx",
+    "title": "Agile Leadership and Servant Leadership",
+    "description": "Servant leadership in Agile and behaviors that enable team success.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0052-4abc-8abc-000000000052",
+    "position": 52,
+    "filepath": "src/pages/slides/Slide52.tsx",
+    "title": "Sprint Retrospective in Practice",
+    "description": "Three retrospective questions and rules for effective retrospectives.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0053-4abc-8abc-000000000053",
+    "position": 53,
+    "filepath": "src/pages/slides/Slide53.tsx",
+    "title": "OKRs: Objectives and Key Results",
+    "description": "OKR framework with inspiring objectives and quantitative key results.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0054-4abc-8abc-000000000054",
+    "position": 54,
+    "filepath": "src/pages/slides/Slide54.tsx",
+    "title": "Data-Driven Decision Making in Agile",
+    "description": "Key Agile metrics and best practices for using data well.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0055-4abc-8abc-000000000055",
+    "position": 55,
+    "filepath": "src/pages/slides/Slide55.tsx",
+    "title": "Agile and Scrum: Key Takeaways",
+    "description": "Four key takeaways: Agile is a mindset, Scrum is a framework, people first, inspect and adapt.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0056-4abc-8abc-000000000056",
+    "position": 56,
+    "filepath": "src/pages/slides/Slide56.tsx",
+    "title": "Building a Career in Project Management",
+    "description": "Section divider — Careers. High demand, good pay, and clear career growth path.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0057-4abc-8abc-000000000057",
+    "position": 57,
+    "filepath": "src/pages/slides/Slide57.tsx",
+    "title": "Finding a Job in Project Management",
+    "description": "Entry-level roles, how to stand out, and the STAR interview method.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0058-4abc-8abc-000000000058",
+    "position": 58,
+    "filepath": "src/pages/slides/Slide58.tsx",
+    "title": "Developing a Personal Career Plan",
+    "description": "Short-term, mid-term, and long-term PM career goals.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0059-4abc-8abc-000000000059",
+    "position": 59,
+    "filepath": "src/pages/slides/Slide59.tsx",
+    "title": "Building Your Professional Network",
+    "description": "Where and how to network effectively in the PM community.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-0060-4abc-8abc-000000000060",
+    "position": 60,
+    "filepath": "src/pages/slides/Slide60.tsx",
+    "title": "You Are Ready to Manage Projects",
+    "description": "Closing slide summarizing all six sections of the Google PM Certificate.",
+    "speakerNotes": ""
+  }
+]

@@ -1,0 +1,31 @@
+kind = "slides"
+previewPath = "/google-pm-cert/"
+title = "Google PM Certificate"
+version = "1.0.0"
+id = "artifacts/google-pm-cert"
+router = "path"
+
+[[integratedSkills]]
+name = "slides"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/google-pm-cert/" ]
+localPort = 23415
+
+[services.development]
+run = "pnpm --filter @workspace/google-pm-cert run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/google-pm-cert", "run", "build" ]
+publicDir = "artifacts/google-pm-cert/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23415"
+BASE_PATH = "/google-pm-cert/"
