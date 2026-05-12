@@ -29,7 +29,7 @@ export default function Slide60() {
         <p style={{ fontSize: "2vw", color: "#888888", margin: 0, maxWidth: "50vw", lineHeight: 1.5 }}>
           Google Project Management Certificate — Complete
         </p>
-        <div style={{ marginTop: "3vh", display: "flex", gap: "3vw' }}>
+        <div style={{ marginTop: "3vh", display: "flex", gap: "3vw" }}>
           <div style={{ textAlign: "center" }}>
             <p style={{ fontSize: "3vw", fontFamily: "'Space Grotesk', sans-serif", fontWeight: 700, color: "#E8878C", margin: 0 }}>60</p>
             <p style={{ fontSize: "1.2vw", color: "#666666", margin: "0.5vh 0 0 0" }}>Slides Covered</p>

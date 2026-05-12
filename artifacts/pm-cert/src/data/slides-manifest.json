@@ -1,1 +1,482 @@
-[]
+[
+  {
+    "id": "pm-cert-0001-google-project-management-certificate",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide01.tsx",
+    "title": "Google Project Management Certificate",
+    "description": "Google Project Management Certificate",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0002-what-is-project-management",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide02.tsx",
+    "title": "What Is Project Management?",
+    "description": "What Is Project Management?",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0003-what-does-a-project-manager-actually-do",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide03.tsx",
+    "title": "What Does a Project Manager Actually Do?",
+    "description": "What Does a Project Manager Actually Do?",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0004-the-value-of-a-project-manager",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide04.tsx",
+    "title": "The Value of a Project Manager",
+    "description": "The Value of a Project Manager",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0005-professional-project-management-skills",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide05.tsx",
+    "title": "Professional Project Management Skills",
+    "description": "Professional Project Management Skills",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0006-project-structures-and-life-cycles",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide06.tsx",
+    "title": "Project Structures and Life Cycles",
+    "description": "Project Structures and Life Cycles",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0007-organizational-structure-and-company-culture",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide07.tsx",
+    "title": "Organizational Structure and Company Culture",
+    "description": "Organizational Structure and Company Culture",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0008-how-company-culture-affects-project-management",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide08.tsx",
+    "title": "How Company Culture Affects Project Management",
+    "description": "How Company Culture Affects Project Management",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0009-key-parts-of-project-initiation",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide09.tsx",
+    "title": "Key Parts of Project Initiation",
+    "description": "Key Parts of Project Initiation",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0010-setting-smart-goals",
+    "position": 10,
+    "filepath": "src/pages/slides/Slide10.tsx",
+    "title": "Setting SMART Goals",
+    "description": "Setting SMART Goals",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0011-scope-and-scope-creep",
+    "position": 11,
+    "filepath": "src/pages/slides/Slide11.tsx",
+    "title": "Scope and Scope Creep",
+    "description": "Scope and Scope Creep",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0012-communicating-and-working-with-stakeholders",
+    "position": 12,
+    "filepath": "src/pages/slides/Slide12.tsx",
+    "title": "Communicating and Working with Stakeholders",
+    "description": "Communicating and Working with Stakeholders",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0013-the-benefits-of-project-planning",
+    "position": 13,
+    "filepath": "src/pages/slides/Slide13.tsx",
+    "title": "The Benefits of Project Planning",
+    "description": "The Benefits of Project Planning",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0014-project-planning-for-beginners",
+    "position": 14,
+    "filepath": "src/pages/slides/Slide14.tsx",
+    "title": "Project Planning for Beginners",
+    "description": "Project Planning for Beginners",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0015-building-a-project-plan",
+    "position": 15,
+    "filepath": "src/pages/slides/Slide15.tsx",
+    "title": "Building a Project Plan",
+    "description": "Building a Project Plan",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0016-negotiating-with-stakeholders",
+    "position": 16,
+    "filepath": "src/pages/slides/Slide16.tsx",
+    "title": "Negotiating with Stakeholders",
+    "description": "Negotiating with Stakeholders",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0017-how-to-create-a-project-budget",
+    "position": 17,
+    "filepath": "src/pages/slides/Slide17.tsx",
+    "title": "How to Create a Project Budget",
+    "description": "How to Create a Project Budget",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0018-risk-management-basics",
+    "position": 18,
+    "filepath": "src/pages/slides/Slide18.tsx",
+    "title": "Risk Management Basics",
+    "description": "Risk Management Basics",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0019-resources-and-tools-to-manage-your-project",
+    "position": 19,
+    "filepath": "src/pages/slides/Slide19.tsx",
+    "title": "Resources and Tools to Manage Your Project",
+    "description": "Resources and Tools to Manage Your Project",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0020-the-project-communication-plan",
+    "position": 20,
+    "filepath": "src/pages/slides/Slide20.tsx",
+    "title": "The Project Communication Plan",
+    "description": "The Project Communication Plan",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0021-communicate-effectively-as-a-project-manager",
+    "position": 21,
+    "filepath": "src/pages/slides/Slide21.tsx",
+    "title": "Communicate Effectively as a Project Manager",
+    "description": "Communicate Effectively as a Project Manager",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0022-how-to-run-a-successful-meeting",
+    "position": 22,
+    "filepath": "src/pages/slides/Slide22.tsx",
+    "title": "How to Run a Successful Meeting",
+    "description": "How to Run a Successful Meeting",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0023-how-to-organize-effective-meetings",
+    "position": 23,
+    "filepath": "src/pages/slides/Slide23.tsx",
+    "title": "How to Organize Effective Meetings",
+    "description": "How to Organize Effective Meetings",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0024-project-tracking-methods-and-examples",
+    "position": 24,
+    "filepath": "src/pages/slides/Slide24.tsx",
+    "title": "Project Tracking Methods and Examples",
+    "description": "Project Tracking Methods and Examples",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0025-effective-project-management-during-execution",
+    "position": 25,
+    "filepath": "src/pages/slides/Slide25.tsx",
+    "title": "Effective Project Management During Execution",
+    "description": "Effective Project Management During Execution",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0026-leadership-vs-management-in-a-successful-team",
+    "position": 26,
+    "filepath": "src/pages/slides/Slide26.tsx",
+    "title": "Leadership vs Management in a Successful Team",
+    "description": "Leadership vs Management in a Successful Team",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0027-how-project-managers-improve-team-effectiveness",
+    "position": 27,
+    "filepath": "src/pages/slides/Slide27.tsx",
+    "title": "How Project Managers Improve Team Effectiveness",
+    "description": "How Project Managers Improve Team Effectiveness",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0028-how-project-managers-can-influence-those-around-th",
+    "position": 28,
+    "filepath": "src/pages/slides/Slide28.tsx",
+    "title": "How Project Managers Can Influence Those Around Them",
+    "description": "How Project Managers Can Influence Those Around Them",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0029-how-project-managers-can-build-customer-satisfacti",
+    "position": 29,
+    "filepath": "src/pages/slides/Slide29.tsx",
+    "title": "How Project Managers Can Build Customer Satisfaction",
+    "description": "How Project Managers Can Build Customer Satisfaction",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0030-quality-management-and-continuous-improvement",
+    "position": 30,
+    "filepath": "src/pages/slides/Slide30.tsx",
+    "title": "Quality Management and Continuous Improvement",
+    "description": "Quality Management and Continuous Improvement",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0031-understanding-project-success",
+    "position": 31,
+    "filepath": "src/pages/slides/Slide31.tsx",
+    "title": "Understanding Project Success",
+    "description": "Understanding Project Success",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0032-using-data-to-tell-a-story",
+    "position": 32,
+    "filepath": "src/pages/slides/Slide32.tsx",
+    "title": "Using Data to Tell a Story",
+    "description": "Using Data to Tell a Story",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0033-the-steps-of-the-project-closing-process",
+    "position": 33,
+    "filepath": "src/pages/slides/Slide33.tsx",
+    "title": "The Steps of the Project Closing Process",
+    "description": "The Steps of the Project Closing Process",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0034-how-to-prepare-a-project-closeout-report",
+    "position": 34,
+    "filepath": "src/pages/slides/Slide34.tsx",
+    "title": "How to Prepare a Project Closeout Report",
+    "description": "How to Prepare a Project Closeout Report",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0035-agile-amp-scrum",
+    "position": 35,
+    "filepath": "src/pages/slides/Slide35.tsx",
+    "title": "Agile &amp; Scrum",
+    "description": "Agile &amp; Scrum",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0036-intro-to-agile",
+    "position": 36,
+    "filepath": "src/pages/slides/Slide36.tsx",
+    "title": "Intro to Agile",
+    "description": "Intro to Agile",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0037-the-agile-manifesto",
+    "position": 37,
+    "filepath": "src/pages/slides/Slide37.tsx",
+    "title": "The Agile Manifesto",
+    "description": "The Agile Manifesto",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0038-the-12-agile-principles-summary",
+    "position": 38,
+    "filepath": "src/pages/slides/Slide38.tsx",
+    "title": "The 12 Agile Principles (Summary)",
+    "description": "The 12 Agile Principles (Summary)",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0039-vuca-and-agile-advantages",
+    "position": 39,
+    "filepath": "src/pages/slides/Slide39.tsx",
+    "title": "VUCA and Agile Advantages",
+    "description": "VUCA and Agile Advantages",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0040-popular-agile-frameworks-and-methodologies",
+    "position": 40,
+    "filepath": "src/pages/slides/Slide40.tsx",
+    "title": "Popular Agile Frameworks and Methodologies",
+    "description": "Popular Agile Frameworks and Methodologies",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0041-lean-s-5-core-principles",
+    "position": 41,
+    "filepath": "src/pages/slides/Slide41.tsx",
+    "title": "Lean's 5 Core Principles",
+    "description": "Lean's 5 Core Principles",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0042-an-introduction-to-scrum",
+    "position": 42,
+    "filepath": "src/pages/slides/Slide42.tsx",
+    "title": "An Introduction to Scrum",
+    "description": "An Introduction to Scrum",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0043-the-three-scrum-roles",
+    "position": 43,
+    "filepath": "src/pages/slides/Slide43.tsx",
+    "title": "The Three Scrum Roles",
+    "description": "The Three Scrum Roles",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0044-the-five-scrum-events",
+    "position": 44,
+    "filepath": "src/pages/slides/Slide44.tsx",
+    "title": "The Five Scrum Events",
+    "description": "The Five Scrum Events",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0045-the-product-backlog",
+    "position": 45,
+    "filepath": "src/pages/slides/Slide45.tsx",
+    "title": "The Product Backlog",
+    "description": "The Product Backlog",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0046-backlog-management-and-refinement",
+    "position": 46,
+    "filepath": "src/pages/slides/Slide46.tsx",
+    "title": "Backlog Management and Refinement",
+    "description": "Backlog Management and Refinement",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0047-agile-use-cases-and-applicability",
+    "position": 47,
+    "filepath": "src/pages/slides/Slide47.tsx",
+    "title": "Agile Use Cases and Applicability",
+    "description": "Agile Use Cases and Applicability",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0048-when-to-use-agile-or-waterfall",
+    "position": 48,
+    "filepath": "src/pages/slides/Slide48.tsx",
+    "title": "When to Use Agile or Waterfall",
+    "description": "When to Use Agile or Waterfall",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0049-blending-methods-hybrid-project-management",
+    "position": 49,
+    "filepath": "src/pages/slides/Slide49.tsx",
+    "title": "Blending Methods: Hybrid Project Management",
+    "description": "Blending Methods: Hybrid Project Management",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0050-value-driven-delivery-in-agile",
+    "position": 50,
+    "filepath": "src/pages/slides/Slide50.tsx",
+    "title": "Value-Driven Delivery in Agile",
+    "description": "Value-Driven Delivery in Agile",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0051-the-value-roadmap",
+    "position": 51,
+    "filepath": "src/pages/slides/Slide51.tsx",
+    "title": "The Value Roadmap",
+    "description": "The Value Roadmap",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0052-agile-challenges-and-how-to-overcome-them",
+    "position": 52,
+    "filepath": "src/pages/slides/Slide52.tsx",
+    "title": "Agile Challenges and How to Overcome Them",
+    "description": "Agile Challenges and How to Overcome Them",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0053-common-scrum-pitfalls",
+    "position": 53,
+    "filepath": "src/pages/slides/Slide53.tsx",
+    "title": "Common Scrum Pitfalls",
+    "description": "Common Scrum Pitfalls",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0054-the-scrum-master-as-a-coach",
+    "position": 54,
+    "filepath": "src/pages/slides/Slide54.tsx",
+    "title": "The Scrum Master as a Coach",
+    "description": "The Scrum Master as a Coach",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0055-the-evolution-of-agile-and-ai-in-project-managemen",
+    "position": 55,
+    "filepath": "src/pages/slides/Slide55.tsx",
+    "title": "The Evolution of Agile and AI in Project Management",
+    "description": "The Evolution of Agile and AI in Project Management",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0056-finding-your-first-pm-job",
+    "position": 56,
+    "filepath": "src/pages/slides/Slide56.tsx",
+    "title": "Finding Your First PM Job",
+    "description": "Finding Your First PM Job",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0057-how-to-find-the-right-pm-role-for-you",
+    "position": 57,
+    "filepath": "src/pages/slides/Slide57.tsx",
+    "title": "How to Find the Right PM Role for You",
+    "description": "How to Find the Right PM Role for You",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0058-how-to-keep-improving-as-a-project-manager",
+    "position": 58,
+    "filepath": "src/pages/slides/Slide58.tsx",
+    "title": "How to Keep Improving as a Project Manager",
+    "description": "How to Keep Improving as a Project Manager",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0059-key-takeaways-a-complete-course-summary",
+    "position": 59,
+    "filepath": "src/pages/slides/Slide59.tsx",
+    "title": "Key Takeaways: A Complete Course Summary",
+    "description": "Key Takeaways: A Complete Course Summary",
+    "speakerNotes": ""
+  },
+  {
+    "id": "pm-cert-0060-you-are-ready",
+    "position": 60,
+    "filepath": "src/pages/slides/Slide60.tsx",
+    "title": "You Are Ready.",
+    "description": "You Are Ready.",
+    "speakerNotes": ""
+  }
+]
